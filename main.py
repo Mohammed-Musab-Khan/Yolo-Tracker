@@ -140,7 +140,7 @@ def vehicle_tracking_assignment():
     cv2.destroyAllWindows()
 
 
-object_predict1()
-# object_predict2()
+# object_predict1()
+object_predict2()
 # vehicle_tracking()
 # vehicle_tracking_assignment()

@@ -20,7 +20,7 @@ A powerful compuster vision system for object detection and tracking using YOLOv
 ## Installation
 1. Clone this repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/Mohammed-Musab-Khan/Yolo-Tracker.git
 cd Yolo-Tracker
 ```
 
@@ -39,7 +39,7 @@ pip install -r _requirements.txt
 python main.py
 ```
 - Uncomment `object_predict1()` or `object_predict2()` in main.py
-- Place your image in project root as `cat_dog.jpg`
+- Place your image in project root as `cat_dot_detected.png`
 
 ### Vehicle Tracking
 ```python
